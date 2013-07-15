@@ -12,7 +12,7 @@ package sqs
 import (
 	"encoding/xml"
 	"fmt"
-	"launchpad.net/goamz/aws"
+	"github.com/bmizerany/aws"
 	"log"
 	"net/http"
 	"net/http/httputil"
